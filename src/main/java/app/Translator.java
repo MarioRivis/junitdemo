@@ -12,7 +12,7 @@ public class Translator {
         trans.put(0, "zero");
         trans.put(1, "one");
         trans.put(2, "two");
-        trans.put(3, "thre");
+        trans.put(3, "three");
         trans.put(4, "four");
         trans.put(5, "five");
         trans.put(6, "six");
